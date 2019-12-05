@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.kirschnered.nl',
   pathPrefix: '/',
-  title: 'Website KirschnerEd',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'KirschnerEd',
+  subtitle: 'Een website die docenten, schoolleiders, onderwijs-/schoolbeleidsmakers, politici attent maakt wat goed onderwijs is',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,31 +12,39 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Home',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Blog',
+      path: '/pages/blog'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Publicaties',
+      path: '/pages/publicaties'
+    },
+    {
+      label: 'Over mij',
+      path: '/pages/over'
+    },
+    {
+      label: 'Contact',
+      path: '/pages/contact'
     }
   ],
   author: {
     name: 'Paul Kirschner',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/logo.svg',
+    bio: '',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: '#',
+      twitter: 'P_A_Kirschner',
       github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'paulkirschner',
       instagram: '',
       line: '',
       gitlab: '',
