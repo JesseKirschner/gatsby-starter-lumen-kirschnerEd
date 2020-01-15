@@ -31,7 +31,7 @@ const ContactForm = ({ options }: Props) => {
         ...state,
       }),
     })
-      .then(() => navigate(form.getAttribute('action')))
+      // .then(() => navigate(form.getAttribute('action')))
       .catch((error) => alert(error));
   };
 
