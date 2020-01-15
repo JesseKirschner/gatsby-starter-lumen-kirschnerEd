@@ -9,25 +9,12 @@ exports[`Author renders correctly 1`] = `
   >
     <img
       alt="test"
-      className="author__photo"
+      className="author__image"
       height="75"
-      src="/paul.jpg"
+      src="/logo.jpg"
       width="75"
     />
   </a>
-  <h2
-    className="author__title"
-  >
-    <a
-      className="author__title-link"
-      href="/"
-    >
-      test
-    </a>
-  </h2>
-  <p
-    className="author__subtitle"
-  >
     test
   </p>
 </div>

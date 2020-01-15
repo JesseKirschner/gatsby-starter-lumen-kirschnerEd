@@ -4,7 +4,8 @@ const path = require('path');
 const _ = require('lodash');
 const createCategoriesPages = require('./pagination/create-categories-pages.js');
 const createTagsPages = require('./pagination/create-tags-pages.js');
-const createPostsPages = require('./pagination/create-posts-pages.js');
+const createIndexPage = require('./pagination/create-index-page.js');
+const createBlogPages = require('./pagination/create-blog-pages.js');
 
 const createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
@@ -25,6 +26,12 @@ const createPages = async ({ graphql, actions }) => {
   createPage({
     path: '/categories',
     component: path.resolve('./src/templates/categories-list-template.js')
+  });
+
+  // Contact page
+  createPage({
+    path: '/contact',
+    component: path.resolve('./src/templates/contact-template.js')
   });
 
   // Posts and pages from markdown
@@ -68,7 +75,8 @@ const createPages = async ({ graphql, actions }) => {
   // Feeds
   await createTagsPages(graphql, actions);
   await createCategoriesPages(graphql, actions);
-  await createPostsPages(graphql, actions);
+  await createIndexPage(graphql, actions);
+  await createBlogPages(graphql, actions);
 };
 
 

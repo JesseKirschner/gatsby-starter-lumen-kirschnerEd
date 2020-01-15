@@ -23,6 +23,10 @@ module.exports = {
           path: '/test/3/'
         }
       ],
+      logo: {
+        name: 'Test logo',
+        image: '/logo.jpg'
+      },
       author: {
         name: 'Test name',
         photo: '/test.jpg',

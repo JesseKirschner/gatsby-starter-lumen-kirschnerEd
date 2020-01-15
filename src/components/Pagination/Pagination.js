@@ -20,6 +20,7 @@ const Pagination = ({
   hasNextPage,
   hasPrevPage
 }: Props) => {
+
   const prevClassName = cx({
     'pagination__prev-link': true,
     'pagination__prev-link--disable': !hasPrevPage

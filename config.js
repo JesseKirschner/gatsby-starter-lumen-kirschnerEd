@@ -7,17 +7,14 @@ module.exports = {
   subtitle: 'Een website die docenten, schoolleiders, onderwijs-/schoolbeleidsmakers, politici attent maakt wat goed onderwijs is',
   copyright: '© All rights reserved.',
   disqusShortname: '',
+  entryPage: 'welkom',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Home',
-      path: '/'
-    },
-    {
       label: 'Blog',
-      path: '/pages/blog'
+      path: '/blog'
     },
     {
       label: 'Publicaties',
@@ -29,16 +26,20 @@ module.exports = {
     },
     {
       label: 'Contact',
-      path: '/pages/contact'
+      path: '/contact'
     }
   ],
+  logo: {
+    image: '/logo.svg',
+    name: 'kirschnerEd'
+  },
   author: {
     name: 'Paul Kirschner',
-    photo: '/logo.svg',
-    bio: '',
+    photo: '/paul.jpg',
+    bio: 'een mini bio',
     contacts: {
       email: '',
-      facebook: '',
+      facebook: 'PaulAKirschner',
       telegram: '',
       twitter: 'P_A_Kirschner',
       github: '',
@@ -53,3 +54,16 @@ module.exports = {
     }
   }
 };
+
+// Paul A. Kirschner
+// kirschner-ED
+// Prins Clausstraat 48
+// 6433JR Hoensbroek
+// Nederland / The Netherlands
+// +31 (0)630390674
+// paul@kirschnered.nl
+
+// IBAN: NL55 ABNA 0831 6971 64
+// BIC: ABNANL2A
+// KvKnummer: 72332026
+// BTWnummer: NL001275031B88

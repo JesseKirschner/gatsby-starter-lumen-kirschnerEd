@@ -1,5 +1,6 @@
 // @flow strict
 import React from 'react';
+import Logo from './Logo';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
@@ -12,11 +13,14 @@ type Props = {
 };
 
 const Sidebar = ({ isIndex }: Props) => {
-  const { author, copyright, menu } = useSiteMetadata();
+  const { logo, author, copyright, menu } = useSiteMetadata();
+
+  console.log(logo)
 
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
+        <Logo logo={logo} isIndex={isIndex} />
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
