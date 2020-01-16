@@ -1,7 +1,7 @@
 ---
 title: Effectief, Efficiënt en Bevredigend Leren
 template: page
-slug: pages/blog
+slug: templates/blog
 # draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Welkom op mijn pagina
 template: page
-slug: pages/welkom
+slug: templates/welkom
 # draft: true
 ---
 
