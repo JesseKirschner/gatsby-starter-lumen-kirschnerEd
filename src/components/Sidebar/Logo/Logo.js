@@ -18,6 +18,7 @@ const Logo = ({ logo }: Props) => (
         src={withPrefix(logo.image)}
         className={styles['logo__image']}
         alt={logo.name}
+        height="40"
       />
     </Link>
   </div>

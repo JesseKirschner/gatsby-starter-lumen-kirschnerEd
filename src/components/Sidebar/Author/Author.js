@@ -12,13 +12,16 @@ type Props = {
   isIndex: ?boolean
 };
 
-const Author = ({ author, isIndex }: Props) => (
+const Author = ({ author, isIndex }: Props) => {
+
+  return (
   <div className={styles['author']}>
     <Link to="/">
       <img
         src={withPrefix(author.photo)}
         className={styles['author__photo']}
         width="150"
+        height="150"
         alt={author.name}
       />
     </Link>
@@ -35,5 +38,6 @@ const Author = ({ author, isIndex }: Props) => (
     <p className={styles['author__subtitle']}>{author.bio}</p>
   </div>
 );
+    };
 
 export default Author;

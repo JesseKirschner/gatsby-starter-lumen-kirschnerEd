@@ -35,11 +35,10 @@ const BlogTemplate = ({ data, pageContext }: Props) => {
   const blogTitle = currentPage > 0 ? `${pageTitle} - Pagina ${currentPage}` : pageTitle;
 
   return (
-
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage}>
       <Sidebar isIndex />
       <Page title={blogTitle}>
-        {currentPage === 0? <div dangerouslySetInnerHTML={{ __html: pageBody }} /> : ""}
+        {currentPage === 0 ? <div dangerouslySetInnerHTML={{ __html: pageBody }} /> : ''}
 
         <Feed edges={edges} />
         <Pagination

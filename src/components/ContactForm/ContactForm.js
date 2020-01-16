@@ -17,15 +17,12 @@ const ContactForm = ({ options }: Props) => {
   const [state, setState] = React.useState({});
 
   const handleChange = (e) => {
-    console.log(e.target.value);
     setState({ ...state, [e.target.name]: e.target.value });
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
     const form = e.target;
-
-    console.log(state);
 
     fetch('/', {
       method: 'POST',
@@ -59,18 +56,36 @@ const ContactForm = ({ options }: Props) => {
 
         <label>
           {options.name}
-          <input type="text" name="name" id="name" required onChange={handleChange}/>
+          <input
+            type="text"
+            name="name"
+            className={styles['contactForm__inputField']}
+            required
+            onChange={handleChange}/>
         </label>
         <label>
           Email
-        <input type="email" name="email" id="email" required onChange={handleChange}/>
+          <input
+            type="email"
+            name="email"
+            className={styles['contactForm__inputField']}
+            required
+            onChange={handleChange}/>
         </label>
         <label>
           Message
-        <textarea name="message" id="message" rows="5" required onChange={handleChange} />
+          <textarea
+            name="message"
+            className={styles['contactForm__inputField']}
+            rows="5"
+            required
+            onChange={handleChange} />
         </label>
-        <button type="submit">Send</button>
-        <input type="reset" value="Clear" />
+        <button
+          type="submit"
+          className={styles['contactForm__button']}>Send</button>
+        <input type="reset" value="Clear"
+          className={styles['contactForm__button']} />
       </form>
     </div>
   );
