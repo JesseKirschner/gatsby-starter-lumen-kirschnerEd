@@ -76,7 +76,7 @@ export const query = graphql`
         }
       }
     }
-    markdownRemark(fields: {slug: {eq: "pages/blog"}}) {
+    markdownRemark(fields: {slug: {eq: "templates/blog"}}) {
       id
       html
       frontmatter {

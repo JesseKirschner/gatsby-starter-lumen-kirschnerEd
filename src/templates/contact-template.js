@@ -39,7 +39,7 @@ const ContactTemplate = ({ data }: Props) => {
 
 export const query = graphql`
   query ContactTemplate {
-    markdownRemark(fields: {slug: {eq: "pages/contact"}}) {
+    markdownRemark(fields: {slug: {eq: "templates/contact"}}) {
       id
       html
       frontmatter {
