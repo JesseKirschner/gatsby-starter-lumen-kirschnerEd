@@ -11,7 +11,7 @@ import type { PageContext, AllMarkdownRemark, MarkdownRemark } from '../types';
 
 type Props = {
   data: AllMarkdownRemark,
-  // pageData: MarkdownRemark,
+  pageData: MarkdownRemark,
   pageContext: PageContext
 };
 
@@ -76,7 +76,7 @@ export const query = graphql`
         }
       }
     }
-    markdownRemark(fields: {slug: {eq: "/pages/blog/"}}) {
+    markdownRemark(fields: {slug: {eq: "pages/blog"}}) {
       id
       html
       frontmatter {

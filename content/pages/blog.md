@@ -1,7 +1,8 @@
 ---
-title: "Effectief, Efficiënt en Bevredigend Leren"
-template: "page"
-# draft: true
+title: Effectief, Efficiënt en Bevredigend Leren
+template: page
+slug: pages/blog
+# draft: false
 ---
 
 Naast mijn eigen blog hier, heb ik twee andere twee blogs, een in het Nederlands op de Blogcollectief Onderzoek Onderwijs en een in het Engels met Mirjam Neelen op 3 Star Learning Experiences waar ik probeer onderwijswetenschappelijke inzichten te vertalen naar de praktijk van het onderwijs en lesgeven op een manier dat begrijpelijk en inzichtelijk is voor mensen die onderwijs en instructie ontwerpen, ontwikkelen en implementeren.

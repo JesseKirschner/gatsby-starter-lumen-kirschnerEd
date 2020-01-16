@@ -1,6 +1,7 @@
 ---
-title: "Welkom op mijn pagina"
-template: "page"
+title: Welkom op mijn pagina
+template: page
+slug: pages/welkom
 # draft: true
 ---
 
