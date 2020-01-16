@@ -1,12 +1,12 @@
 // @flow strict
-import React from 'react';
+import React, {useState, useCallback } from 'react';
 import Logo from './Logo';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
-import { useSiteMetadata } from '../../hooks';
+import { useSiteMetadata, useWindowSize } from '../../hooks';
 
 type Props = {
   isIndex?: boolean,
@@ -20,8 +20,30 @@ const Sidebar = ({ isIndex }: Props) => {
     menu
   } = useSiteMetadata();
 
+
+  const [sidebar, setSidebar] = useState(null);
+
+  const onSidebarSet = useCallback((ref) => {
+    setSidebar(ref);
+  });
+
+  const { height } = useWindowSize();
+
+  const stickyStyle = {
+    position: 'sticky',
+    top: 0
+  };
+
+  if (sidebar && sidebar) {
+    const sideBarHeight = sidebar.getBoundingClientRect().height;
+
+    if (sideBarHeight >= height) {
+      stickyStyle.top = height - sideBarHeight;
+    }
+  }
+
   return (
-    <div className={styles['sidebar']}>
+    <div className={styles['sidebar']} ref={onSidebarSet} style={ stickyStyle }>
       <div className={styles['sidebar__inner']}>
         <Logo logo={logo} isIndex={isIndex}/>
         <Author author={author} isIndex={isIndex} />
