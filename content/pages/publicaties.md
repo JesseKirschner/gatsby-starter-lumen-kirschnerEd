@@ -53,14 +53,11 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 * [Blokken zonder brokken: Humo’s gouden tips om beter te presteren – Humo](https://www.ou.nl/-/artikel-blokken-zonder-brokken)\
   Daar is de blok! Met een landelijk tekort aan fluostiften als gevolg. Maar werkt dat wel, overijverig onderlijnen? Volgens de cognitieve psychologie gebruiken scholieren en studenten massaal de verkeerde studietechnieken. Onderzoekers hebben de voorbije decennia verschillende leermethodes ontwikkeld die wél efficiënt blijken, maar die vinden amper hun weg naar aula’s en klaslokalen. Smijt de samenvatting van je medestudent door het raam en loods die gortdroge materie je brein écht binnen.
 * [Leren uit boek effectiever dan van een beeldscherm – Nederlands Dagblad, 11/12/2017
-  ](https://www.nd.nl/nieuws/buitenland/644007/leren-uit-boek-effectiever-dan-van-een-beeldscherm)
-    Studenten die iets willen leren, kunnen beter teksten van papier lezen dan van een beeldscherm. Dat blijkt uit Amerikaans onderzoek.
+  ](https://www.nd.nl/nieuws/buitenland/644007/leren-uit-boek-effectiever-dan-van-een-beeldscherm)Studenten die iets willen leren, kunnen beter teksten van papier lezen dan van een beeldscherm. Dat blijkt uit Amerikaans onderzoek.
 * [Paul Kirschner ontrafelt onderwijsmythes: ‘Het is gewoon crap, bullshit’ – Onderwijsblad
-  ](https://www.onderwijsblad.nl/article.asp?ArtikelID=12853)\
-    De ‘mythbuster’ van de onderwijssector, dat is hoogleraar Paul Kirschner. Bekend door zijn continue hameren op onzinnige onderzoeken, domme aannames en andere ‘bullcrap’ die fatsoenlijk leren in de weg zit.
-* Gooi het kind niet met het badwater weg’ – VO magazine januari-februari 2014
-
-Knippen en plakken lukt jongeren prima. Maar ze zijn nauwelijks in staat tot kenniscreatie of kennisdeling
+  ](https://www.onderwijsblad.nl/article.asp?ArtikelID=12853)De ‘mythbuster’ van de onderwijssector, dat is hoogleraar Paul Kirschner. Bekend door zijn continue hameren op onzinnige onderzoeken, domme aannames en andere ‘bullcrap’ die fatsoenlijk leren in de weg zit.
+* Gooi het kind niet met het badwater weg’ – VO magazine januari-februari 2014\
+  Knippen en plakken lukt jongeren prima. Maar ze zijn nauwelijks in staat tot kenniscreatie of kennisdeling
 
 ### Lezingen
 
