@@ -13,11 +13,10 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 * [De holle retoriek van 21st century skills](https://www.scienceguide.nl/2017/12/holle-retoriek-21st-century-skills/)\
   De voortdurende nadruk in onderwijsland op generieke vaardigheden brengt de positie van vakkennis in gevaar en heeft een negatieve invloed op de onderwijskwaliteit, betogen Erik Meester, Sarah Bergsen en Paul A. Kirschner. "We moeten de beschikking over kennis, bijvoorbeeld via internet, niet verwarren met het bezit van kennis."
 * [Didactief](https://didactiefonline.nl/): 
-  \
-    Ik ben columnist en blogschrijver voor [Didactief ](https://didactiefonline.nl/blog/paul-kirschner)sinds 2010 met meer dan 100 columns. Mijn column/blog heet Kirschner Kiest. Elke maand kies ik 1 of 2 wetenschappelijke artikelen en probeer aan de docent / leerkracht uit te leggen wat de resultaten van het onderzoek positief of negatief betekent voor het onderwijs c.q. in de klas.
+  Ik ben columnist en blogschrijver voor [Didactief ](https://didactiefonline.nl/blog/paul-kirschner)sinds 2010 met meer dan 100 columns. Mijn column/blog heet Kirschner Kiest. Elke maand kies ik 1 of 2 wetenschappelijke artikelen en probeer aan de docent / leerkracht uit te leggen wat de resultaten van het onderzoek positief of negatief betekent voor het onderwijs c.q. in de klas.
 * [Van Twaalf tot Achttien](https://www.van12tot18.nl/):\
   Vroeger schreef ik ook een maandelijkse column voor VTTA. Het was een soort Lieve Lita (naam van de problemenrubriek in een vrouwenblad) waar docenten/leerkrachten vragen of problemen konden insturen en ik probeerde daarvoor een antwoord te geven.
-  Overige (selectie):
+* Overige (selectie):
   [Tien instructieprincipes die elke leraar zou moeten kennen](https://onderzoekonderwijs.net/2017/06/20/tien-instructieprincipes-die-elke-leraar-zou-moeten-kennen/)
   [Wetenschap of persoonlijke overtuiging?](https://www.ou.nl/documents/40554/383618/2013_OI_1.pdf/e659282a-1f38-2e91-5ab9-9a128dadd78f) Onderwijs Innovatie, maart 2011, 26-28 .
   [Effectief leren in de handboeken van lerarenopleidingen.](https://research.ou.nl/ws/portalfiles/portal/1021278/Effectief+leren+in+de+handboeken+van+lerarenopleidingen+-+OI_2018_2.pdf) Onderwijs Innovatie, juni 2018, 36-38 
@@ -27,26 +26,19 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 
 * [Amerikaanse kookfreak](https://www.volkskrant.nl/nieuws-achtergrond/amerikaanse-kookfreak~b33f0c1e/)
 * [De vrijheid van onderwijs is achterhaald – ScienceGuide 11 december 2019
-  ](https://www.scienceguide.nl/2019/12/de-vrijheid-van-onderwijs-is-achterhaald/)
-    "Ik vraag me sterk af of Artikel 23 nog gebruikt wordt op de manier waarop deze bedoeld is." Volgens emeritus hoogleraar Paul Kirschner (Open Universiteit) biedt de vrijheid van onderwijs teveel ruimte voor ondoordachte en niet-onderbouwde onderwijsinnovaties.
+  ](https://www.scienceguide.nl/2019/12/de-vrijheid-van-onderwijs-is-achterhaald/)"Ik vraag me sterk af of Artikel 23 nog gebruikt wordt op de manier waarop deze bedoeld is." Volgens emeritus hoogleraar Paul Kirschner (Open Universiteit) biedt de vrijheid van onderwijs teveel ruimte voor ondoordachte en niet-onderbouwde onderwijsinnovaties.
 * [Constructivisme is een slechte didactische raadgever – ScienceGuide 16 oktober 2019
-  ](https://www.scienceguide.nl/2019/10/constructivisme-is-een-slechte-didactische-raadgever/)
-    Onderwijsvernieuwingen waarin de docent de rol aanneemt als 'facilitator, gids of coach' zijn geen aantoonbare garantie voor succes. Toch is het 'constructivistische' gedachtengoed nog altijd populair in het hoger onderwijs, getuige het grote aantal minimaal begeleide onderwijsvormen. "Tegenwoordig zouden we beter moeten weten," stellen Sarah Bergsen, Erik Meester, Paul Kirschner en Anna Bosman.
+  ](https://www.scienceguide.nl/2019/10/constructivisme-is-een-slechte-didactische-raadgever/)Onderwijsvernieuwingen waarin de docent de rol aanneemt als 'facilitator, gids of coach' zijn geen aantoonbare garantie voor succes. Toch is het 'constructivistische' gedachtegoed nog altijd populair in het hoger onderwijs, getuige het grote aantal minimaal begeleide onderwijsvormen. "Tegenwoordig zouden we beter moeten weten," stellen Sarah Bergsen, Erik Meester, Paul Kirschner en Anna Bosman.
 * [Toekomstige arbeidsmarkt vraagt om flexibel weerbare werknemer – AdVisie
-  ](https://www.arbeidsdeskundigen.nl/cms/files/2017-12/ad-visie-2017-06-toekomstige-arbeidsmarkt.pdf)\
-    De technologische vooruitgang brengt niet alleen vernieuwing, maar ook onzekerheid. Het ene onderzoek beweert dat er allerlei beroepen verdwijnen, door robotisering bijvoorbeeld. Het andere onderzoek weerspreekt die onderzoeksresultaten weer. Hoe zit het nu? En hoe bereiden we jongeren van nu voor op nieuwe beroepen die zullen ontstaan?
+  ](https://www.arbeidsdeskundigen.nl/cms/files/2017-12/ad-visie-2017-06-toekomstige-arbeidsmarkt.pdf)De technologische vooruitgang brengt niet alleen vernieuwing, maar ook onzekerheid. Het ene onderzoek beweert dat er allerlei beroepen verdwijnen, door robotisering bijvoorbeeld. Het andere onderzoek weerspreekt die onderzoeksresultaten weer. Hoe zit het nu? En hoe bereiden we jongeren van nu voor op nieuwe beroepen die zullen ontstaan?
 * [De holle retoriek van 21st century skills: Hoezo is kennis minder belangrijk? – ScienceGuide 22 december 2017
-  ](https://www.scienceguide.nl/2017/12/holle-retoriek-21st-century-skills/)\
-    De voortdurende nadruk in onderwijsland op generieke vaardigheden brengt de positie van vakkennis in gevaar en heeft een negatieve invloed op de onderwijskwaliteit, betogen Erik Meester, Sarah Bergsen en Paul A. Kirschner. "We moeten de beschikking over kennis, bijvoorbeeld via internet, niet verwarren met het bezit van kennis."
+  ](https://www.scienceguide.nl/2017/12/holle-retoriek-21st-century-skills/)De voortdurende nadruk in onderwijsland op generieke vaardigheden brengt de positie van vakkennis in gevaar en heeft een negatieve invloed op de onderwijskwaliteit, betogen Erik Meester, Sarah Bergsen en Paul A. Kirschner. "We moeten de beschikking over kennis, bijvoorbeeld via internet, niet verwarren met het bezit van kennis."
 * [De leraar moet geen hamburgerbakker zijn – NRC / NRC Next
-  ](https://www.nrc.nl/nieuws/2019/06/02/de-leraar-moet-geen-hamburgerbakker-zijn-a3962308)\
-    Als grumpy old man zet Paul Kirschner zich af tegen mythes en goeroes in het onderwijs. „Ik heb het idee dat er langzamerhand weer een voedingsbodem is voor bewijs en kennis.”
+  ](https://www.nrc.nl/nieuws/2019/06/02/de-leraar-moet-geen-hamburgerbakker-zijn-a3962308)Als grumpy old man zet Paul Kirschner zich af tegen mythes en goeroes in het onderwijs. „Ik heb het idee dat er langzamerhand weer een voedingsbodem is voor bewijs en kennis.”
 * [Wie inspecteert de onderwijsinspectie? – ScienceGuide, 18 april 2017
-  ](https://www.scienceguide.nl/2017/04/wie-inspecteert-de-onderwijsinspectie/)\
-    Gaat het wel goed bij de inspectie? Dat vraagt onderwijshoogleraar Paul Kirschner zich af. Hij uit zijn zorgen over het veelvuldig aanhalen van de onderwijsmythe 'leerstijlen' in het onlangs verschenen rapport van de Inspectie: 'De Staat van het Onderwijs'.
+  ](https://www.scienceguide.nl/2017/04/wie-inspecteert-de-onderwijsinspectie/)Gaat het wel goed bij de inspectie? Dat vraagt onderwijshoogleraar Paul Kirschner zich af. Hij uit zijn zorgen over het veelvuldig aanhalen van de onderwijsmythe 'leerstijlen' in het onlangs verschenen rapport van de Inspectie: 'De Staat van het Onderwijs'.
 * [Schrift of Scherm? Al pennend leert men – EOS
-  ](https://www.judithbrouwerschrijft.nl/nieuws/schrift-of-scherm-al-pennend-leert-men/)
-    We nemen steeds minder vaak pen en papier ter hand. Computers en smartphones zijn niet weg te denken  uit ons leven en duiken ook vaker op in het onderwijs. Is dat een goede trend of moeten we niet te hard van stapel lopen? De wetenschap geeft antwoord.
+  ](https://www.judithbrouwerschrijft.nl/nieuws/schrift-of-scherm-al-pennend-leert-men/)We nemen steeds minder vaak pen en papier ter hand. Computers en smartphones zijn niet weg te denken  uit ons leven en duiken ook vaker op in het onderwijs. Is dat een goede trend of moeten we niet te hard van stapel lopen? De wetenschap geeft antwoord.
 * [TES focus on… Direct instruction – TES](https://www.tes.com/magazine/article/tes-focus-direct-instruction)\
   Despite a reputation for being authoritarian, this method is evidence-based and versatile, according to Paul Kirschner. He tells Simon Creasey why every teacher should use it – and probably already does, whether they realise it or not
 * Het onderwijs van nu is het onderwijs van de toekomst – Dyade Magazine, december 2017, 8-11
@@ -59,9 +51,20 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 * Gooi het kind niet met het badwater weg’ – VO magazine januari-februari 2014\
   Knippen en plakken lukt jongeren prima. Maar ze zijn nauwelijks in staat tot kenniscreatie of kennisdeling
 
-### Lezingen
+### Lezingen / Video's
 
-* [LEREN LEREN: Kun je nou beter wel of niet multitasken?](https://www.youtube.com/watch?v=6kf_dkadhzI)
+* [Full Circle - Recall the Beginning... A Journey to Eden](https://player.ou.nl/wowzaportlets/embed?production=1DIM8YD)\
+  Afscheidsrede Open Universiteit: Af en toe stilstaan is geen achteruitgang. Op vrijdag 13 december 2019 om 16.00 uur sprak ik mijn afscheidsrede ‘Recall the beginning: A journey to Eden’ aan de Open Universiteit uit. Dat is op de minuut af precies 28 jaar na mijn promotie aan die instelling. In mijn afscheidsrede kijkt ik terug op 37 jaar OU. Ik laat zien dat stilstaan geen achteruitgang is, maar juist de kans geeft om te reflecteren op wat wij hebben en hebben bereikt, en ook om deze verworvenheden te verfijnen, uit te bouwen en te perfectioneren. De OU is een casestudie in de samenhang tussen didactiek, onderwijswetenschappelijk onderzoek en onderwijsinnovatie.
+* [Opleiden voor (nog) niet bestaande beroepen](https://www.youtube.com/watch?v=65DU-Za-r_c&t=181s)\
+  Presentatie op het Love to Learn symposium, 14 februari 2017, Amsterdam. Georganiseerd door Stichting Instituut Gak en de NSvP.
+* [LEREN LEREN: Kun je nou beter wel of niet multitasken? Universiteit van Nederland ](https://www.youtube.com/watch?v=6kf_dkadhzI&t=7s)Vrouwen kunnen goed multitasken en mannen moeten zich vooral op één taak tegelijkertijd richten. Prof. dr. Paul A. Kirschner (OU) maakt voor eens en voor altijd korte metten met dit cliché en toont in dit college aan dat multitasken allesbehalve effectief is.
+* [Op de schouders van reuzen -#rEDNed 2019](https://www.youtube.com/watch?v=H01PIW01Avo&t=1258s)Paul Kirschner lanceerde de open access versie van het boek Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten. 24 wetenschappelijke kernartikelen vertaald naar de dagelijkse lespraktijk.
+* [Wijze lessen - researchED Nederland 2020](https://www.youtube.com/watch?v=Yhas5h9AEn4)De cognitief psychologische basis van het boek Wijze Lessen  
+* [Learning Analytics: Utopia or Dystopia](https://www.youtube.com/watch?v=8OjmnOiMIKI&t=7s)Keynote op de LAK’16 conference (Society for Learning Analytics Research
+* [21st Century Skills - researchED Haninge 2019](https://www.youtube.com/watch?v=7iuBFo_XutA)
+  The so called 21st century skills have three major problems. First, the skills named are generic and, thus actually do not exist. Second, those skills are not 21st century but have been present and necessary for centuries if not millennia. Finally, many of the skills are actually traits and not skills and as such cannot be taught.
+* [Discussie over Curriculumherziening](https://www.youtube.com/watch?v=Bh8OCsRdlXA) tussen Luc Stevens (NIVOZ) en mij over Stelselherziening curriculum PO?VO (Onderwijs2032)  bij de vaste Kamercommissie Onderwijs. 
+  Commentaar van een kijker: Zo ergerlijk en warhoofdig ik de bijdrage van Luc Stevens vind, zo verhelderend en geruststellend (met dit woord even voorbijgaand aan de beleidspraktijk) vind ik de bijdrage van Paul Kirschner. 
 
 ### Boeken
 
@@ -131,9 +134,7 @@ Recognize any of these myths?
 
 These myths and more are systematically debunked, with useful correct information about the topic in question.
 
-
-
-[More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts ](<More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts>)
+[More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts ](<More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts>)
 
 More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts examines common beliefs about education and learning that are not supported by scientific evidence before using research to reveal the truth about each topic. The book comprises sections on educational approaches, curriculum, educational psychology, and educational policy, concluding with a critical look at evidence-based education itself. Does playing chess improve intelligence? Should tablets and keyboards replace handwriting? Is there any truth to the 10,000-hour rule for expertise? In an engaging, conversational style, authors Pedro De Bruyckere, Paul A. Kirschner, and Casper Hulshof tackle a set of pervasive myths, effectively separating fact from fiction in learning and education.
 
