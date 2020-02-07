@@ -137,17 +137,13 @@ These myths and more are systematically debunked, with useful correct informatio
 
 More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts examines common beliefs about education and learning that are not supported by scientific evidence before using research to reveal the truth about each topic. The book comprises sections on educational approaches, curriculum, educational psychology, and educational policy, concluding with a critical look at evidence-based education itself. Does playing chess improve intelligence? Should tablets and keyboards replace handwriting? Is there any truth to the 10,000-hour rule for expertise? In an engaging, conversational style, authors Pedro De Bruyckere, Paul A. Kirschner, and Casper Hulshof tackle a set of pervasive myths, effectively separating fact from fiction in learning and education.
 
-
-
-[Evidence-Informed Learning Design: Creating Training to Improve Performance](https://www.koganpage.com/product/evidence-informed-learning-design-9781789661415)
+[Evidence-Informed Learning Design: Creating Training to Improve Performance](https://www.koganpage.com/product/evidence-informed-learning-design-9781789661415)
 
 Learning and Development (L&D) programmes are too often based on fads, the latest trends or learning designers' personal preferences without critical evaluation. Evidence-Informed Learning Design will allow learning professionals to move away from this type of approach by showing them how to assess and apply relevant scientific literature, learning science research and proven learning techniques to design their training in a way that will make a measurable difference to employee performance and overall business success.
 
 Packed with tips, tools and examples, Evidence-Informed Learning Design enables L&D and training professionals to save both time and money by ensuring that efforts are focused on designing learning that's proven to be effective. Covering techniques like interleaving and self-directed and self-regulated learning, as well as debunking myths and fallacies in the field, it covers how best to test, measure and reinforce learning in both online, offline and face-to-face scenarios. To ensure that employees develop the skills the business needs to succeed and that the L&D function is recognised as adding true organizational value, this book is essential reading for anyone responsible for designing learning.
 
-
-
-T[en Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design (3rd revised edition)](https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component/van-Merrienboer-Kirschner/p/book/9781138080805)
+T[en Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design (3rd revised edition)](https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component/van-Merrienboer-Kirschner/p/book/9781138080805)
 
 The Ten Steps to Complex Learning are a practical and modified version of the four-component instructional design model (for short, 4C/ID-model). Previous descriptions of this model had a descriptive nature with an emphasis on the psychological basis of the model and the relationships between design components and learning processes. Ten Steps are mainly prescriptive and aim to provide a version of the model that is practicable for teachers, domain experts involved in educational and/or training design, and less experienced instructional designers. 
 
