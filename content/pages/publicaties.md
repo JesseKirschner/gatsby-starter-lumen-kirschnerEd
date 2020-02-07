@@ -24,7 +24,9 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 
 ### Interviews - Een Bloemlezing
 
-* [Amerikaanse kookfreak](https://www.volkskrant.nl/nieuws-achtergrond/amerikaanse-kookfreak~b33f0c1e/)
+* [Amerikaanse kookfreak](https://www.volkskrant.nl/nieuws-achtergrond/amerikaanse-kookfreak~b33f0c1e/)\
+  Iedereen kan koken, is het motto van Mac van Dinther van de Volkskrant. Om dat te toetsen, eet hij iedere week bij een lezer thuis. Deze week: Paul Kirschner (59), hoogleraar in Hoensbroek.\
+  Paul Kirschner is een autoriteit in de onderwijspsychologie. Hij noemt zichzelf een Don Quichot, strijder tegen populaire onzin. Zoals gescheiden klassen voor jongens en meisjes of het idee dat kinderen kunnen multi-tasken. Dat kan niemand, zegt Paul. Het bewijs levert hij er meteen bij door zichzelf in de vingers te snijden terwijl hij met mij praat. 'Terwijl ik toch al 35 jaar kook.'
 * [De vrijheid van onderwijs is achterhaald – ScienceGuide 11 december 2019
   ](https://www.scienceguide.nl/2019/12/de-vrijheid-van-onderwijs-is-achterhaald/)"Ik vraag me sterk af of Artikel 23 nog gebruikt wordt op de manier waarop deze bedoeld is." Volgens emeritus hoogleraar Paul Kirschner (Open Universiteit) biedt de vrijheid van onderwijs teveel ruimte voor ondoordachte en niet-onderbouwde onderwijsinnovaties.
 * [Constructivisme is een slechte didactische raadgever – ScienceGuide 16 oktober 2019
@@ -53,18 +55,27 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 
 ### Lezingen / Video's
 
-* [Full Circle - Recall the Beginning... A Journey to Eden](https://player.ou.nl/wowzaportlets/embed?production=1DIM8YD)\
-  Afscheidsrede Open Universiteit: Af en toe stilstaan is geen achteruitgang. Op vrijdag 13 december 2019 om 16.00 uur sprak ik mijn afscheidsrede ‘Recall the beginning: A journey to Eden’ aan de Open Universiteit uit. Dat is op de minuut af precies 28 jaar na mijn promotie aan die instelling. In mijn afscheidsrede kijkt ik terug op 37 jaar OU. Ik laat zien dat stilstaan geen achteruitgang is, maar juist de kans geeft om te reflecteren op wat wij hebben en hebben bereikt, en ook om deze verworvenheden te verfijnen, uit te bouwen en te perfectioneren. De OU is een casestudie in de samenhang tussen didactiek, onderwijswetenschappelijk onderzoek en onderwijsinnovatie.
-* [Opleiden voor (nog) niet bestaande beroepen](https://www.youtube.com/watch?v=65DU-Za-r_c&t=181s)\
-  Presentatie op het Love to Learn symposium, 14 februari 2017, Amsterdam. Georganiseerd door Stichting Instituut Gak en de NSvP.
-* [LEREN LEREN: Kun je nou beter wel of niet multitasken? Universiteit van Nederland ](https://www.youtube.com/watch?v=6kf_dkadhzI&t=7s)Vrouwen kunnen goed multitasken en mannen moeten zich vooral op één taak tegelijkertijd richten. Prof. dr. Paul A. Kirschner (OU) maakt voor eens en voor altijd korte metten met dit cliché en toont in dit college aan dat multitasken allesbehalve effectief is.
-* [Op de schouders van reuzen -#rEDNed 2019](https://www.youtube.com/watch?v=H01PIW01Avo&t=1258s)Paul Kirschner lanceerde de open access versie van het boek Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten. 24 wetenschappelijke kernartikelen vertaald naar de dagelijkse lespraktijk.
-* [Wijze lessen - researchED Nederland 2020](https://www.youtube.com/watch?v=Yhas5h9AEn4)De cognitief psychologische basis van het boek Wijze Lessen  
-* [Learning Analytics: Utopia or Dystopia](https://www.youtube.com/watch?v=8OjmnOiMIKI&t=7s)Keynote op de LAK’16 conference (Society for Learning Analytics Research
-* [21st Century Skills - researchED Haninge 2019](https://www.youtube.com/watch?v=7iuBFo_XutA)
-  The so called 21st century skills have three major problems. First, the skills named are generic and, thus actually do not exist. Second, those skills are not 21st century but have been present and necessary for centuries if not millennia. Finally, many of the skills are actually traits and not skills and as such cannot be taught.
-* [Discussie over Curriculumherziening](https://www.youtube.com/watch?v=Bh8OCsRdlXA) tussen Luc Stevens (NIVOZ) en mij over Stelselherziening curriculum PO?VO (Onderwijs2032)  bij de vaste Kamercommissie Onderwijs. 
-  Commentaar van een kijker: Zo ergerlijk en warhoofdig ik de bijdrage van Luc Stevens vind, zo verhelderend en geruststellend (met dit woord even voorbijgaand aan de beleidspraktijk) vind ik de bijdrage van Paul Kirschner. 
+* [Full Circle - Recall the Beginning... A Journey to Eden
+  ](https://player.ou.nl/wowzaportlets/embed?production=1DIM8YD)\
+    Afscheidsrede Open Universiteit: Af en toe stilstaan is geen achteruitgang. Op vrijdag 13 december 2019 om 16.00 uur sprak ik mijn afscheidsrede ‘Recall the beginning: A journey to Eden’ aan de Open Universiteit uit. Dat is op de minuut af precies 28 jaar na mijn promotie aan die instelling. In mijn afscheidsrede kijkt ik terug op 37 jaar OU. Ik laat zien dat stilstaan geen achteruitgang is, maar juist de kans geeft om te reflecteren op wat wij hebben en hebben bereikt, en ook om deze verworvenheden te verfijnen, uit te bouwen en te perfectioneren. De OU is een casestudie in de samenhang tussen didactiek, onderwijswetenschappelijk onderzoek en onderwijsinnovatie.
+* [Opleiden voor (nog) niet bestaande beroepen
+  ](https://www.youtube.com/watch?v=65DU-Za-r_c&t=181s)\
+    Presentatie op het Love to Learn symposium, 14 februari 2017, Amsterdam. Georganiseerd door Stichting Instituut Gak en de NSvP.
+* [LEREN LEREN: Kun je nou beter wel of niet multitasken?
+   Universiteit van Nederland 
+  ](https://www.youtube.com/watch?v=6kf_dkadhzI&t=7s)Vrouwen kunnen goed multitasken en mannen moeten zich vooral op één taak tegelijkertijd richten. Prof. dr. Paul A. Kirschner (OU) maakt voor eens en voor altijd korte metten met dit cliché en toont in dit college aan dat multitasken allesbehalve effectief is.
+* [Op de schouders van reuzen -#rEDNed 2019
+  ](https://www.youtube.com/watch?v=H01PIW01Avo&t=1258s)Paul Kirschner lanceerde de open access versie van het boek Op de schouders van reuzen: Inspirerende inzichten uit de cognitieve psychologie voor leerkrachten. 24 wetenschappelijke kernartikelen vertaald naar de dagelijkse lespraktijk.
+* [Wijze lessen - researchED Nederland 2020
+  ](https://www.youtube.com/watch?v=Yhas5h9AEn4)De cognitief psychologische basis van het boek Wijze Lessen  
+* [Learning Analytics: Utopia or Dystopia
+  ](https://www.youtube.com/watch?v=8OjmnOiMIKI&t=7s)Keynote op de LAK’16 conference (Society for Learning Analytics Research
+* [21st Century Skills - researchED Haninge 2019
+  ](https://www.youtube.com/watch?v=7iuBFo_XutA)
+    The so called 21st century skills have three major problems. First, the skills named are generic and, thus actually do not exist. Second, those skills are not 21st century but have been present and necessary for centuries if not millennia. Finally, many of the skills are actually traits and not skills and as such cannot be taught.
+* [Discussie over Curriculumherziening](https://www.youtube.com/watch?v=Bh8OCsRdlXA) tussen Luc Stevens
+  (NIVOZ) en mij over Stelselherziening curriculum PO?VO (Onderwijs2032)  bij de vaste Kamercommissie Onderwijs. 
+   Commentaar van een kijker: Zo ergerlijk en warhoofdig ik de bijdrage van Luc Stevens vind, zo verhelderend en geruststellend (met dit woord even voorbijgaand aan de beleidspraktijk) vind ik de bijdrage van Paul Kirschner. 
 
 ### Boeken
 
@@ -87,8 +98,6 @@ Clearly divided into six sections, the book covers:
 •	Cautionary tales and the ten deadly sins of education.
 
 Written by two leading experts and illustrated by Oliver Caviglioli, this is essential reading for teachers wanting to fully engage with and understand educational research as well as undergraduate students in the fields of education, educational psychology and the learning sciences.
-
-
 
 #### [Op de Schouders van Reuzen](www.opdeschoudersvanreuzen.nl)
 
@@ -134,23 +143,24 @@ Recognize any of these myths?
 
 These myths and more are systematically debunked, with useful correct information about the topic in question.
 
-[More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts ](<More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts>)
+[More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts 
+](<More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts>)
 
 More Urban Myths About Learning and Education: Challenging Eduquacks, Extraordinary Claims, and Alternative Facts examines common beliefs about education and learning that are not supported by scientific evidence before using research to reveal the truth about each topic. The book comprises sections on educational approaches, curriculum, educational psychology, and educational policy, concluding with a critical look at evidence-based education itself. Does playing chess improve intelligence? Should tablets and keyboards replace handwriting? Is there any truth to the 10,000-hour rule for expertise? In an engaging, conversational style, authors Pedro De Bruyckere, Paul A. Kirschner, and Casper Hulshof tackle a set of pervasive myths, effectively separating fact from fiction in learning and education.
 
-[Evidence-Informed Learning Design: Creating Training to Improve Performance](https://www.koganpage.com/product/evidence-informed-learning-design-9781789661415)
+[Evidence-Informed Learning Design: Creating Training to Improve Performance
+](https://www.koganpage.com/product/evidence-informed-learning-design-9781789661415)
 
 Learning and Development (L&D) programmes are too often based on fads, the latest trends or learning designers' personal preferences without critical evaluation. Evidence-Informed Learning Design will allow learning professionals to move away from this type of approach by showing them how to assess and apply relevant scientific literature, learning science research and proven learning techniques to design their training in a way that will make a measurable difference to employee performance and overall business success.
 
 Packed with tips, tools and examples, Evidence-Informed Learning Design enables L&D and training professionals to save both time and money by ensuring that efforts are focused on designing learning that's proven to be effective. Covering techniques like interleaving and self-directed and self-regulated learning, as well as debunking myths and fallacies in the field, it covers how best to test, measure and reinforce learning in both online, offline and face-to-face scenarios. To ensure that employees develop the skills the business needs to succeed and that the L&D function is recognised as adding true organizational value, this book is essential reading for anyone responsible for designing learning.
 
-T[en Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design (3rd revised edition)](https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component/van-Merrienboer-Kirschner/p/book/9781138080805)
+T[en Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design (3rd revised edition)
+](https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component/van-Merrienboer-Kirschner/p/book/9781138080805)
 
 The Ten Steps to Complex Learning are a practical and modified version of the four-component instructional design model (for short, 4C/ID-model). Previous descriptions of this model had a descriptive nature with an emphasis on the psychological basis of the model and the relationships between design components and learning processes. Ten Steps are mainly prescriptive and aim to provide a version of the model that is practicable for teachers, domain experts involved in educational and/or training design, and less experienced instructional designers. 
 
 The model described in this book is directed towards vocational and professional education, job-oriented university programs (e.g., medicine, business administration, law), and competency-based training programs in business and industry as well as governmental and military organizations. It will typically be used to develop educational or training programs with duration of several months - ranging from a few weeks to several years. In terms of curriculum design, the model will typically be used to design a - substantial - part of a curriculum that is directed towards the development of one professional competency or complex skill. Computer-based tools will be very helpful to carry out larger design projects.
-
-
 
 ### Wetenschappelijke publicaties
 
