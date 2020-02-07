@@ -1,8 +1,7 @@
 ---
-title: Welkom op mijn pagina
 template: page
-slug: templates/welkom
-# draft: true
+title: Welkom op kirschner-ED
+draft: true
 ---
 
 Welkom op kirschner-ED, een website gewijd aan het verbeteren van de kwaliteit van het onderwijs en de mensen die daarin werken. Op basis van cognitiepsychologisch en onderwijswetenschappelijk onderzoek samen met jarenlang ervaring in het ontwerpen en ontwikkelen van lesmateriaal probeer ik met deze website jou, de bezoeker, te voorzien van door bewijs geïnformeerde (evidence informed) ideeën over hoe het onderwijs meer effectief, efficiënt en bevredigend gemaakt kan worden voor jou en voor jouw leerlingen of studenten. 
