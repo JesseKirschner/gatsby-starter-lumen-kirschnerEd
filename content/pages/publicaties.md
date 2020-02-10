@@ -2,7 +2,7 @@
 template: page
 title: Publicaties/Media/Lezingen
 slug: pages/publicaties
-draft: true
+draft: false
 ---
 ## Wat doe ik?
 
