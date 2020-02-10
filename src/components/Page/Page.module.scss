@@ -9,13 +9,34 @@
   }
 
   &__title {
-    padding-top: 25px;
+    // padding-top: 25px;
     background: white;
     font-size: $typographic-base-font-size * 2.5;
     font-weight: 600;
+    position: sticky;
+    top: 25px;
+    transform-origin: top left;
     @include line-height(2);
     @include margin-top(0);
     @include margin-bottom(1.45);
+  }
+
+  &__titlescaled {
+    background: white;
+    font-size: $typographic-base-font-size * 2.5 * 0.7;
+    font-weight: 600;
+    position: sticky;
+    top: 18px;
+    transform-origin: top left;
+    @include line-height(2);
+    @include margin-top(0);
+    @include margin-bottom(1.45);
+  }
+
+  &__hidetext {
+    height: 25px;
+    width:100%;
+    background: white;
   }
 
   &__body {

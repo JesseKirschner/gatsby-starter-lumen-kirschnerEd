@@ -1,11 +1,7 @@
 // @flow strict
-import React from 'react';
-import { navigate } from 'gatsby-link';
+import React, { useState } from 'react';
+// import { navigate } from 'gatsby-link';
 import styles from './ContactForm.module.scss';
-
-type Props = {
-  options: Object
-};
 
 function encode(data) {
   return Object.keys(data)
@@ -13,8 +9,9 @@ function encode(data) {
     .join('&');
 }
 
-const ContactForm = ({ options }: Props) => {
-  const [state, setState] = React.useState({});
+const ContactForm = () => {
+  const [state, setState] = useState({});
+  const [showThanks, setShowThanks] = useState(false);
 
   const handleChange = (e) => {
     setState({ ...state, [e.target.name]: e.target.value });
@@ -32,13 +29,16 @@ const ContactForm = ({ options }: Props) => {
         ...state,
       }),
     })
-      // .then(() => navigate(form.getAttribute('action')))
+      .then(() => {
+        setShowThanks(true);
+      })
       .catch((error) => alert(error));
   };
 
   return (
     <div className={styles['contactForm']}>
-      <form
+      { showThanks ? <div> Bedankt voor je bericht! Ik zal spoedig contact met je opnemen. </div>
+        : <form
         name="contact"
         method="post"
         action="/thanks/"
@@ -55,7 +55,7 @@ const ContactForm = ({ options }: Props) => {
         </p>
 
         <label>
-          {options.name}
+          Naam *
           <input
             type="text"
             name="name"
@@ -64,7 +64,7 @@ const ContactForm = ({ options }: Props) => {
             onChange={handleChange}/>
         </label>
         <label>
-          Email
+          Email *
           <input
             type="email"
             name="email"
@@ -73,7 +73,7 @@ const ContactForm = ({ options }: Props) => {
             onChange={handleChange}/>
         </label>
         <label>
-          Message
+          Message *
           <textarea
             name="message"
             className={styles['contactForm__inputField']}
@@ -87,6 +87,7 @@ const ContactForm = ({ options }: Props) => {
         <input type="reset" value="Clear"
           className={styles['contactForm__button']} />
       </form>
+    }
     </div>
   );
 };

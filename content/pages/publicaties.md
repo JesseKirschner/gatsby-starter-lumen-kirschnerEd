@@ -1,5 +1,5 @@
 ---
-title: Publicaties/Media/Lezingen
+title: Publicaties, Media, Lezingen
 template: page
 slug: pages/publicaties
 # draft: false

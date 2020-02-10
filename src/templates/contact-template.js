@@ -22,15 +22,13 @@ const ContactTemplate = ({ data }: Props) => {
   const { title: pageTitle, description: pageDescription, socialImage } = frontmatter;
   const metaDescription = pageDescription !== null ? pageDescription : siteSubtitle;
 
-  const options = {name: 'testName'}
-
   return (
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
       <Sidebar isIndex />
 
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
-        <ContactForm options={options} />
+        <ContactForm />
       </Page>
 
     </Layout>
