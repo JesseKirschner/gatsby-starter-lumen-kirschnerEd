@@ -8,35 +8,47 @@
     padding: 25px 20px;
   }
 
+  &__title_container {
+    position: sticky;
+    top: 25px;
+    @include margin-top(0);
+    @include margin-bottom(1.45);
+  }
+
   &__title {
-    // padding-top: 25px;
     background: white;
     font-size: $typographic-base-font-size * 2.5;
     font-weight: 600;
-    position: sticky;
-    top: 25px;
+    position: relative;
     transform-origin: top left;
     @include line-height(2);
     @include margin-top(0);
-    @include margin-bottom(1.45);
+    @include margin-bottom(0);
   }
 
-  &__titlescaled {
-    background: white;
-    font-size: $typographic-base-font-size * 2.5 * 0.7;
-    font-weight: 600;
-    position: sticky;
-    top: 18px;
-    transform-origin: top left;
-    @include line-height(2);
-    @include margin-top(0);
-    @include margin-bottom(1.45);
+  &__max_scaled {
+    box-shadow: 0px 4px 4px 0px white;
   }
 
-  &__hidetext {
+  &__max_scaled::before {
+    background: linear-gradient(to right, #e6e6e6 0%, #e6e6e6 48%, #FFF 100%);
+    position: absolute;
+    content: '';
+    height: 0.0625rem;
+    width: 540px;
+    left: 0;
+    // right: -10px;
+    bottom: 0;
+  }
+
+  &__title_container::after {
+    content:" ";
+    position:absolute;
     height: 25px;
-    width:100%;
     background: white;
+    left: 0px;
+    width: 100%;
+    bottom: 100%;
   }
 
   &__body {
@@ -55,6 +67,14 @@
       padding: 30px 20px;
     }
 
+    &__title_container {
+      top: 30px;
+    }
+
+    &__title_container::after {
+      height: 30px;
+    }
+
   }
 
 }
@@ -65,6 +85,14 @@
 
     &__inner {
       padding: 40px 35px;
+    }
+
+    &__title_container {
+      top: 40px;
+    }
+
+    &__title_container::after {
+      height: 40px;
     }
 
   }
