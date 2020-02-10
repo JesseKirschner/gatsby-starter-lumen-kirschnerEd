@@ -17,6 +17,8 @@ module.exports = async (graphql, actions) => {
   const { postsPerPage } = siteConfig;
   const numPages = Math.ceil(result.data.allMarkdownRemark.totalCount / postsPerPage);
 
+    console.log(numPages)
+
   for (let i = 0; i < numPages; i += 1) {
     createPage({
       path: i === 0 ? '/blog' : `/blog/${i}`,
