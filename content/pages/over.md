@@ -2,7 +2,7 @@
 title: Over mij
 template: page
 slug: pages/over
-# draft: "false"
+draft: false
 ---
 
 ## Wie ben ik?

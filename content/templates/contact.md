@@ -2,9 +2,9 @@
 template: page
 title: Wil je contact opnemen met mij?
 slug: templates/contact
-# draft: false
+draft: false
 ---
-Wil je contact met mij opnemen omdat je vragen hebt, mij in wil huren als spreker, docent of dagvoorzitter, mij wilt interviewen, of wat dan ook kan je mij mailen op paul@kirschnered.nl of onderstaande contactformulier invullen. Je krijgt dan zo spoedig mogelijk een email van mij terug. 
+Wil je contact met mij opnemen omdat je vragen hebt, mij in wil huren als spreker, masterclass docent of dagvoorzitter, mij wilt interviewen, of wat dan ook kan je mij mailen op paul@kirschnered.nl of onderstaande contactformulier invullen. Je krijgt dan zo spoedig mogelijk een email van mij terug. 
 
 De met * gemarkeerde velden zijn verplicht. Bedankt!
 
