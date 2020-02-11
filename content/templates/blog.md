@@ -1,14 +1,15 @@
 ---
 template: page
 title: 'Effectief, Efficiënt en Bevredigend Leren'
-slug: templates/blog
 draft: false
 ---
 Naast mijn eigen blog hier, heb ik twee andere twee blogs, een in het Nederlands op de Blogcollectief Onderzoek Onderwijs en een in het Engels met Mirjam Neelen op 3 Star Learning Experiences waar ik probeer onderwijswetenschappelijke inzichten te vertalen naar de praktijk van het onderwijs en lesgeven op een manier dat begrijpelijk en inzichtelijk is voor mensen die onderwijs en instructie ontwerpen, ontwikkelen en implementeren.
 
 ## Blogcollectief Onderzoek Onderwijs
 
-Ik publiceer regelmatig [Nederlandstalige blogs](https://onderzoekonderwijs.net/author/paulkkirschner/) op het Blogcollectief Onderzoek Onderwijs. Het blogcollectief verenigt geestverwante docenten in het primair en secundair onderwijs en onderzoekers aan hogescholen en universiteiten in Nederland en België. Het doel is academisch onderzoek te verbinden met het basis- en middelbaar onderwijs, met als zwaartepunt de praktijk.
+Ik publiceer regelmatig [Nederlandstalige blogs](https://onderzoekonderwijs.net/author/paulkkirschner/) op het Blogcollectief Onderzoek Onderwijs. 
+
+Het blogcollectief verenigt geestverwante docenten in het primair en secundair onderwijs en onderzoekers aan hogescholen en universiteiten in Nederland en België. Het doel is academisch onderzoek te verbinden met het basis- en middelbaar onderwijs, met als zwaartepunt de praktijk.
 In het onderwijs worden we vaak geconfronteerd met maatregelen en veranderingen die ons door het ministerie, ons bestuur of de schoolleiding worden opgelegd. Die worden gepresenteerd als verbeteringen op basis van wetenschappelijk onderzoek, waarvan ervaren docenten soms meteen al kunnen zeggen dat het niet gaat werken.
 Wij willen onderwijskundig onderzoek toetsen aan onze dagelijkse onderwijspraktijk en ervaringen uitwisselen over wat werkt en niet werkt in de klas. Daarbij laten we ons informeren door onderzoek, niet leiden.
 
