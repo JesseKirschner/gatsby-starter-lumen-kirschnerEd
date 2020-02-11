@@ -36,7 +36,7 @@ module.exports = {
   author: {
     name: 'Paul Kirschner',
     photo: '/paul.jpg',
-    bio: 'een mini bio',
+    bio: 'Educational realist, Grumpy old man, Emeritus Hoogleraar Onderwijspsychologie, Eigenaar kirschner-ED',
     contacts: {
       email: '',
       facebook: 'PaulAKirschner',
