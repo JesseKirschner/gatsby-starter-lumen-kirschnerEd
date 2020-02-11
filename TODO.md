@@ -2,20 +2,22 @@
 
 Jesse:
 
-- zorgen dat de titel naar boven gaat op pagina's bij scroll
+- Blog
+    * subpagina's voor 2 andere blogs
+    * onderzoeken gebruik medium/blogger etc.
+    * dynamisch overige blogs binnen halen
+- Blog posts
+    * sidebar toevoegen aan post pagina
+- Publicaties
+    * hernoemen naar media
+    * subpagina's voor ieder soort media
+    * templates voor ieder soort media
+- Over mij
+    * subpagina's (als mens, als wetenschapper)
 - css layout voor mobiele vorm
-
-    = Kirschnered
-    -------------
-       content
-
-Paul:
-
-- controleren teksten
-- toevoegen blog
-- toevoegen bio
-
-Post launch:
+    *  = Kirschnered
+      -------------
+         content
 
 - toevoegen afbeeldingen
 - localizatie (ne / en)
