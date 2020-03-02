@@ -21,7 +21,7 @@ describe('Sidebar', () => {
   };
 
   it('renders correctly', () => {
-    const tree = renderer.create(<Sidebar {...props} />).toJSON();
+    const tree = renderer.create(<Navigation {...props} />).toJSON();
     expect(tree).toMatchSnapshot();
   });
 });

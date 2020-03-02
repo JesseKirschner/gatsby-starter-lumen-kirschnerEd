@@ -18,6 +18,7 @@ Jesse:
     *  = Kirschnered
       -------------
          content
+- Staging branch en pagina 
 
 - toevoegen afbeeldingen
 - localizatie (ne / en)

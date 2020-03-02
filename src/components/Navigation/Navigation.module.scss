@@ -9,6 +9,23 @@
     }
 }
 
+.topbar {
+    &__top {
+        position: sticky;
+        top: 0;
+        padding: 25px 20px 0;
+    }
+
+    &__drawer {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 200px;
+        transform: translateX(-100%);
+        padding: 25px 20px 0;
+    }
+}
+
 @include breakpoint-sm {
     .sidebar {
         lost-column: 5/12;

@@ -2,7 +2,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import Sidebar from '../components/Sidebar';
+import Navigation from '../components/Navigation';
 import Feed from '../components/Feed';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
@@ -37,7 +37,7 @@ const BlogTemplate = ({ data, pageData, pageContext }: Props) => {
 
   return (
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage}>
-      <Sidebar isIndex />
+      <Navigation isIndex />
       <Page title={blogTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
         {/* {currentPage === 0 ? <div dangerouslySetInnerHTML={{ __html: pageBody }} /> : ''} */}

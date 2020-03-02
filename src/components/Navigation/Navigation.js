@@ -1,15 +1,21 @@
 // @flow strict
-import React, {useState, useCallback } from 'react';
+import React, { useState, useCallback } from 'react';
+import { isMobile, isBrowser } from 'react-device-detect';
 import Logo from './Logo';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
-import styles from './Sidebar.module.scss';
+import styles from './Navigation.module.scss';
 import { useSiteMetadata, useWindowSize } from '../../hooks';
 
 type Props = {
   isIndex?: boolean,
+};
+
+const Navigation = ({ isIndex }: Props) => {
+  // TODO: also react to resize
+  return isMobile ? Topbar({ isIndex }) : Sidebar({ isIndex });
 };
 
 const Sidebar = ({ isIndex }: Props) => {
@@ -19,7 +25,6 @@ const Sidebar = ({ isIndex }: Props) => {
     copyright,
     menu
   } = useSiteMetadata();
-
 
   const [sidebar, setSidebar] = useState(null);
 
@@ -55,4 +60,29 @@ const Sidebar = ({ isIndex }: Props) => {
   );
 };
 
-export default Sidebar;
+const Topbar = ({ isIndex }: Props) => {
+
+  const {
+    logo,
+    author,
+    copyright,
+    menu
+  } = useSiteMetadata();
+
+
+  return (
+    <div className={styles['topbar']}>
+      <div className={styles['topbar__top']}>
+        <Logo logo={logo} isIndex={isIndex}/>
+      </div>
+      <div className={styles['topbar__drawer']}>
+        <Author author={author} isIndex={isIndex} />
+        <Menu menu={menu} />
+        <Contacts contacts={author.contacts} />
+        <Copyright copyright={copyright} />
+      </div>
+    </div>
+  );
+};
+
+export default Navigation;
