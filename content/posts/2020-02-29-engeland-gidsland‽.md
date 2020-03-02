@@ -1,10 +1,10 @@
 ---
 template: post
-title: Engeland gidsland‽
+title: Engeland gidsland?
 slug: posts/engeland_gidsland
 draft: false
 date: 2020-02-29T07:57:30.251Z
-description: 'Blog van het maart 2020 nummer van Didactief'
+description: Blog van het maart 2020 nummer van Didactief
 category: Blog
 tags:
   - Wat werkt
