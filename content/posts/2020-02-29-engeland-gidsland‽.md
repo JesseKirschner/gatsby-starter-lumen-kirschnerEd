@@ -4,7 +4,9 @@ title: Engeland gidsland?
 slug: posts/engeland_gidsland
 draft: false
 date: 2020-02-29T07:57:30.251Z
-description: Blog van het maart 2020 nummer van Didactief
+description: >-
+  Ik schrijf maandelijks een column in Didactief. Deze blog is een uitgebreide
+  versie van mijn column in het maart 2020 nummer.
 category: Blog
 tags:
   - Wat werkt
