@@ -1,16 +1,18 @@
 ---
 template: post
-title: Engeland gidsland‽
+title: Engeland gidsland?
 slug: posts/engeland_gidsland
 draft: false
 date: 2020-02-29T07:57:30.251Z
-description: 'Blog van het maart 2020 nummer van Didactief'
+description: >-
+  Ik schrijf maandelijks een column in Didactief. Deze blog is een uitgebreide
+  versie van mijn column in het maart 2020 nummer.
 category: Blog
 tags:
   - Wat werkt
   - Evidence-informed
 ---
-**_Misschien kan de Engelse aanpak voor beginnende leerkrachten een voorbeeld voor ons zijn: Zo leid je beginnende leraren op en ondersteun je scholen om betere leerprestaties te leveren._** 
+_**Misschien kan de Engelse aanpak voor beginnende leerkrachten een voorbeeld voor ons zijn: Zo leid je beginnende leraren op en ondersteun je scholen om betere leerprestaties te leveren.**_ 
 
 Eerlijk gezegd heb ik Engeland nooit gezien als gidsland voor wat dan ook. Ik heb ooit gezegd dat het meest verkochte kookboek in Engeland moet zijn ‘1001 Ways to Ruin Good Food’. En wat ik vind van hun tabloids, hun monarchie en de Brexit laat ik hier buiten beschouwing. Maar op één gebied ben ik van gedachten veranderd: onderwijs, en dan vooral de Engelse kijk op wat een goede leraar is en wat die nodig heeft. 
 
@@ -36,6 +38,6 @@ De serieuze aanpak van Engeland in het opleiden van leraren en in de professione
 
 **Luistert u mee, Excellentie?**
 
-****
+- - -
 
-Department for Education (2019). ITT Core Content Framework. DfE-00230-2019. Te downloaden via https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/843676/Initial_teacher_training_core_content_framework.pdf
+Department for Education (2019). [ITT Core Content Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/843676/Initial_teacher_training_core_content_framework.pdf). DfE-00230-2019.
