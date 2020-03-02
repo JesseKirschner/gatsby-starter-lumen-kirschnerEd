@@ -3,7 +3,7 @@ template: post
 title: Engeland gidsland?
 slug: posts/engeland_gidsland
 draft: false
-date: 2020-03-03T07:57:30.251Z
+date: 2020-03-03T07:57:00.000Z
 description: >-
   Ik schrijf maandelijks een column in Didactief. Deze blog is een uitgebreide
   versie van mijn column in het maart 2020 nummer.
