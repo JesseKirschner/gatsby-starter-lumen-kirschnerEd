@@ -1,13 +1,14 @@
 ---
 template: post
 title: Engeland gidsland‽
-slug: posts
-draft: true
+slug: posts/engeland_gidsland
+draft: false
 date: 2020-02-29T07:57:30.251Z
-description: 'Blog van het maart 2020 nummer van Didactief '
+description: 'Blog van het maart 2020 nummer van Didactief'
 category: Blog
 tags:
-  - Wat werkt; Evidence-informed
+  - Wat werkt
+  - Evidence-informed
 ---
 **_Misschien kan de Engelse aanpak voor beginnende leerkrachten een voorbeeld voor ons zijn: Zo leid je beginnende leraren op en ondersteun je scholen om betere leerprestaties te leveren._** 
 

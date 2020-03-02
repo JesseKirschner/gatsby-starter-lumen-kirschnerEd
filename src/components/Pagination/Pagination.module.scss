@@ -2,8 +2,10 @@
 @import '../../assets/scss/mixins';
 
 .pagination {
-  @include margin-top(2);
+  // @include margin-top(2);
   display: flex;
+  background: lighten($color-gray, 40%);
+  padding: 20px;
 
   &__prev {
     width: 50%;
@@ -22,6 +24,7 @@
       &--disable {
         pointer-events: none;
         color: lighten($color-gray, 20%);
+        // display: none;
       }
 
     }
@@ -45,6 +48,7 @@
       &--disable {
         pointer-events: none;
         color: lighten($color-gray, 20%);
+        // display: none;
       }
 
     }
