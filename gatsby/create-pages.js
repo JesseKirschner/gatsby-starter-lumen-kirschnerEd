@@ -8,7 +8,14 @@ const createIndexPage = require('./pagination/create-index-page.js');
 const createBlogPages = require('./pagination/create-blog-pages.js');
 
 const createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
+
+  createRedirect({
+    fromPath: '/editor',
+    toPath: 'https://wp.kirschnered.nl/wp-admin',
+    isPermanent: true,
+    force: true
+  });
 
   // 404
   createPage({
