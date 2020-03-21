@@ -14,7 +14,7 @@ tags:
     sins; grit; multitasking; digital native; learning pyramid; learning styles;
     creativity; google; problem-solving; discovery learning; motivation
 ---
-In the final chapter of our book _How Learning Happens,_ Carl Hendrick and I briefly describe ten deadly sins of education. Giving in to sins is often tempting, but if you do you’ll be implementing evidence-**UN**informed education and flying in the face of evidence. What follows is a very abridged version of that chapter.
+In the final chapter of our book _How Learning Happens: Seminal Works in Educational Psychology and What They Mean in Practice,_ Carl Hendrick and I briefly describe ten deadly sins of education. Giving in to sins is often tempting, but if you do you’ll be implementing evidence-**UN**informed education and flying in the face of evidence. What follows is a very abridged version of that chapter.
 
 ## 1 The Learning Pyramid
 
