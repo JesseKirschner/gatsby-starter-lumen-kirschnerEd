@@ -22,13 +22,13 @@ The learning pyramid supposedly reflects the effectiveness of different forms of
 
 Why? First, there’s no basis for such percentages. Even the institution that everyone quotes (National Training Laboratories) says they don't have data to support them. Furthermore, the pyramid is simply a corruption of Edgar Dale’s cone of experience (1954), in which he indicated how media differ along a continuum from abstract (language, letters) to concrete (direct experience). Finally, even if the percentages were correct, you can't do anything with it. No lesson is purely one or the other and just adding these percentages up teaches us that you could learn more than 100%!
 
-![](/media/1-cone.png)
+![](/media/pyramid.jpg)
 
 ## 2 Learning Styles
 
 People are all different and just as they prefer different foods, they also prefer different ways of learning. While it sounds and even feels logical that some children are visual learners (give them pictures, diagrams, charts), others auditory (give them a lecture or discussion), readers/writers (let them read and write), or kinaesthetic (give them physical experiences), there’s no evidence whatsoever for this. Looking this way at how children learn, and therefore how teachers should teach, has at least four problems. First, in most studies learning styles are determined based on what people say they prefer. It’s therefore about learning preferences and not learning styles. Second, there’s a big difference between what you prefer and what leads to better learning. Most of us prefer eating fatty and/or salty and/or sugary things. I think that we can all agree that succumbing to these preferences doesn’t constitute a healthy diet. Third, most so-called learning styles are based on specific types: people are classified into different groups. However, there’s no evidence for the existence of these distinct groups. But possibly the most important problem is that if we put learners in different boxes and teach accordingly (i.e., pigeonhole them), we create situations that instead of promoting learning, often hinder it.
 
-![](/media/2-styles-smaller.jpg)
+![](/media/2-styles-not.jpg)
 
 ## 3 Children are Digital Natives
 
