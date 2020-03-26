@@ -2,7 +2,7 @@
 template: post
 title: The Ten Deadly Sins of Education
 slug: posts/ten_deadly_sins
-draft: true
+draft: false
 date: 2020-03-21T07:41:27.181Z
 description: >-
   In this time of corona/covid19 crisis, it's just as important to avoid what
