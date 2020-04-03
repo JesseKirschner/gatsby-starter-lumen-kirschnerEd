@@ -64,6 +64,8 @@ Belangrijk hierbij is dat leerlingen [terugkoppeling ](https://onderzoekonderwij
 
 Laat je je leerlingen toch nieuwe leerstof verwerken, dan raden we aan om deze leerstof in korte brokjes aan te bieden (3 X 15 minuten i.p.v. 45 minuten achter elkaar) een ook op een of meer latere momenten te laten terugkeren. Onderzoek laat immers zien dat het veel effectiever is om de oefening te spreiden in de tijd. 
 
+Wil je een video hiervan zien? Klik dan [hier](https://www.youtube.com/watch?v=Ra4nzFs0wJc&feature=youtu.be).
+
 ## In een notendop:
 
 •	**Houd het kort.** „Probeer in je online les niet te doen wat je normaal doet.”
