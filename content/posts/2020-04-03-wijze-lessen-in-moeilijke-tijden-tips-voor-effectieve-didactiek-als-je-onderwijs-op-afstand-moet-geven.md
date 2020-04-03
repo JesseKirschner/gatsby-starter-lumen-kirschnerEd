@@ -42,11 +42,11 @@ Voor jou als leraar zijn de doelen en verwachtingen bij een opdracht h
 
 **4.	Laat leerlingen een uitgewerkt voorbeeld bestuderen alvorens te starten met de oefeningen.**  
 
-Eén manier om effectief voorbeelden te gebruiken is door uitgewerkte voorbeelden te gebruiken. Dit zijn oefeningen waarvan de oplossing. stap-voor-stap volledig is uitgeschreven. Een ander soort voorbeeld is een modeleervoorbeeld (modeling example). Hierbij doe jij de opdracht voor via bijvoorbeeld een YouTube-video en geef je tijdens de uitvoering steeds aan wat en waarom je dingen doet.
+Eén manier om effectief voorbeelden te gebruiken is door [uitgewerkte voorbeelden](https://didactiefonline.nl/blog/paul-kirschner/houston-wij-hebben-een-probleem) te gebruiken. Dit zijn oefeningen waarvan de oplossing. stap-voor-stap volledig is uitgeschreven. Een ander soort voorbeeld is een modeleervoorbeeld (modeling example). Hierbij doe jij de opdracht voor via bijvoorbeeld een YouTube-video en geef je tijdens de uitvoering steeds aan wat en waarom je dingen doet.
 
 **5.	Bied leerlingen ondersteuning aan tijdens het oefenen.**   
 
-Niet iedereen begrijpt de inhoud meteen. Gebruik scaffolding om leerlingen te ondersteunen die afneemt naarmate zij de stof beter begrijpen. Dit kan lastig zijn gezien de huidige omstandigheden. 
+Niet iedereen begrijpt de inhoud meteen. Gebruik [scaffolding ](https://www.leraar24.nl/69986/scaffolding/)om leerlingen te ondersteunen die afneemt naarmate zij de stof beter begrijpen. Dit kan lastig zijn gezien de huidige omstandigheden. 
 
 **6.	Laat leerlingen de leerstof actief verwerken.**    
 
@@ -58,7 +58,7 @@ Laat je leerlingen (na het oefenen) een ‘oefentoets’ maken waarmee ze kunn
 
 **8.	Geef leerlingen voldoende terugkoppeling op wat ze gedaan hebben.**
 
-Belangrijk hierbij is dat leerlingen terugkoppeling krijgen op hun antwoorden. Dit kan correctief zijn (fout: het antwoord is), maar beter is directief (fout: je had het eigenlijk zo moeten oplossen) of epistemisch (Hoe ben je hierop gekomen? Was het antwoord anders als je rekening had gehouden met…?
+Belangrijk hierbij is dat leerlingen [terugkoppeling ](https://onderzoekonderwijs.net/2015/02/12/lesstof-doen-beklijven/)krijgen op hun antwoorden. Dit kan correctief zijn (fout: het antwoord is), maar beter is directief (fout: je had het eigenlijk zo moeten oplossen) of epistemisch (Hoe ben je hierop gekomen? Was het antwoord anders als je rekening had gehouden met…?
 
 **9.	Spreid oefening in de tijd**
 
@@ -66,7 +66,7 @@ Laat je je leerlingen toch nieuwe leerstof verwerken, dan raden we aan om deze l
 
 ## In een notendop:
 
-•	**Houd het kort**. „Probeer in je online les niet te doen wat je normaal doet.”
+•	**Houd het kort.** „Probeer in je online les niet te doen wat je normaal doet.”
 
 •	**Bereid je goed voor.** „Weet wat je gaat vertellen, pas dat niet gedurende de les aan.”
 
