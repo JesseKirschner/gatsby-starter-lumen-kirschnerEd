@@ -16,6 +16,9 @@ description: >
 category: Blog
 tags:
   - Corona
+  - Covid-19
+  - Leren op afstand
+  - Doceren op afstand
 ---
 _Deze bijdrage is gebaseerd op ‘Wijze Lessen: Twaalf Bouwstenen voor Effectieve Didactiek’ en komt, dus, niet alleen uit mijn koker maar is een gezamenlijk product van een samenwerking tussen Tim Surma, Kristel Vanhoyweghen, Dominique Sluijsmans, Gino Camp, Daniel Muijs en mijn persoon. Het boek, recentelijk gekroond als_ [_Onderwijsboek van het Jaar 2019_](https://www.lbbo.nl/publicaties/verkiezing-het-onderwijsboek-van-2019) _door de LBBO, kan je gratis downloaden op_ [_www.wijzelessen.nu_](www.wijzelessen.nu)_. De papieren versie van het boek kun je bestellen bij_ [_Ten Brink Uitgevers_](https://tenbrinkuitgevers.nl/wijze-lessen)_._ 
 
