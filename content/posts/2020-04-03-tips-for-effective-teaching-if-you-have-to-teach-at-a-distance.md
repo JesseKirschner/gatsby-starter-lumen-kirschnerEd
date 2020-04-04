@@ -2,7 +2,7 @@
 template: post
 title: Tips for effective teaching if you have to teach at a distance
 slug: posts/Tips_for_effective_teaching_if_you_have_to_teach_at_a_distance
-draft: true
+draft: false
 date: 2020-04-03T17:51:15.174Z
 description: >-
   Because of the Corona pandemic, we’re all going through a period that none of
