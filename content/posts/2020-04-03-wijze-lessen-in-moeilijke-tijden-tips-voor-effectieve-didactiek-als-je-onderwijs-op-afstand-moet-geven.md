@@ -4,7 +4,7 @@ title: >-
   Wijze Lessen in Moeilijke Tijden: Tips voor effectieve didactiek als je
   onderwijs op afstand moet geven
 slug: posts/wijze_lessen_in_moeilijke_tijden
-draft: true
+draft: false
 date: 2020-04-03T17:17:28.954Z
 description: >
   Door de Corona pandemie gaan we met z’n allen door een periode die
