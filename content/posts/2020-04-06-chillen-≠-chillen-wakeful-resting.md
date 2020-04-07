@@ -2,7 +2,7 @@
 template: post
 title: 'Chillen ≠ Chillen: Wakeful Resting'
 slug: posts/wakeful_resting
-draft: true
+draft: false
 date: 2020-04-06T19:03:36.490Z
 description: >-
   Stel, je leerlingen zijn klaar met leren en willen een beetje chillen. Maar
