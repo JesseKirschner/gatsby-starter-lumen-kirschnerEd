@@ -56,11 +56,9 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 ### Lezingen / Video's
 
 * [Full Circle - Recall the Beginning... A Journey to Eden
-  ](https://player.ou.nl/wowzaportlets/embed?production=1DIM8YD)\
-    Afscheidsrede Open Universiteit: Af en toe stilstaan is geen achteruitgang. Op vrijdag 13 december 2019 om 16.00 uur sprak ik mijn afscheidsrede ‘Recall the beginning: A journey to Eden’ aan de Open Universiteit uit. Dat is op de minuut af precies 28 jaar na mijn promotie aan die instelling. In mijn afscheidsrede kijkt ik terug op 37 jaar OU. Ik laat zien dat stilstaan geen achteruitgang is, maar juist de kans geeft om te reflecteren op wat wij hebben en hebben bereikt, en ook om deze verworvenheden te verfijnen, uit te bouwen en te perfectioneren. De OU is een casestudie in de samenhang tussen didactiek, onderwijswetenschappelijk onderzoek en onderwijsinnovatie.
+  ](https://player.ou.nl/wowzaportlets/embed?production=1DIM8YD)Afscheidsrede Open Universiteit: Af en toe stilstaan is geen achteruitgang. Op vrijdag 13 december 2019 om 16.00 uur sprak ik mijn afscheidsrede ‘Recall the beginning: A journey to Eden’ aan de Open Universiteit uit. Dat is op de minuut af precies 28 jaar na mijn promotie aan die instelling. In mijn afscheidsrede kijkt ik terug op 37 jaar OU. Ik laat zien dat stilstaan geen achteruitgang is, maar juist de kans geeft om te reflecteren op wat wij hebben en hebben bereikt, en ook om deze verworvenheden te verfijnen, uit te bouwen en te perfectioneren. De OU is een casestudie in de samenhang tussen didactiek, onderwijswetenschappelijk onderzoek en onderwijsinnovatie.
 * [Opleiden voor (nog) niet bestaande beroepen
-  ](https://www.youtube.com/watch?v=65DU-Za-r_c&t=181s)\
-    Presentatie op het Love to Learn symposium, 14 februari 2017, Amsterdam. Georganiseerd door Stichting Instituut Gak en de NSvP.
+  ](https://www.youtube.com/watch?v=65DU-Za-r_c&t=181s)Presentatie op het Love to Learn symposium, 14 februari 2017, Amsterdam. Georganiseerd door Stichting Instituut Gak en de NSvP.
 * [LEREN LEREN: Kun je nou beter wel of niet multitasken?
    Universiteit van Nederland 
   ](https://www.youtube.com/watch?v=6kf_dkadhzI&t=7s)Vrouwen kunnen goed multitasken en mannen moeten zich vooral op één taak tegelijkertijd richten. Prof. dr. Paul A. Kirschner (OU) maakt voor eens en voor altijd korte metten met dit cliché en toont in dit college aan dat multitasken allesbehalve effectief is.
@@ -71,11 +69,13 @@ Ik schrijf artikelen in wetenschappelijke- en onderwijsvaktijdschriften, schrijf
 * [Learning Analytics: Utopia or Dystopia
   ](https://www.youtube.com/watch?v=8OjmnOiMIKI&t=7s)Keynote op de LAK’16 conference (Society for Learning Analytics Research
 * [21st Century Skills - researchED Haninge 2019
-  ](https://www.youtube.com/watch?v=7iuBFo_XutA)
-    The so called 21st century skills have three major problems. First, the skills named are generic and, thus actually do not exist. Second, those skills are not 21st century but have been present and necessary for centuries if not millennia. Finally, many of the skills are actually traits and not skills and as such cannot be taught.
+  ](https://www.youtube.com/watch?v=7iuBFo_XutA)The so called 21st century skills have three major problems. First, the skills named are generic and, thus actually do not exist. Second, those skills are not 21st century but have been present and necessary for centuries if not millennia. Finally, many of the skills are actually traits and not skills and as such cannot be taught.
 * [Discussie over Curriculumherziening](https://www.youtube.com/watch?v=Bh8OCsRdlXA) tussen Luc Stevens
   (NIVOZ) en mij over Stelselherziening curriculum PO?VO (Onderwijs2032)  bij de vaste Kamercommissie Onderwijs. 
    Commentaar van een kijker: Zo ergerlijk en warhoofdig ik de bijdrage van Luc Stevens vind, zo verhelderend en geruststellend (met dit woord even voorbijgaand aan de beleidspraktijk) vind ik de bijdrage van Paul Kirschner. 
+* [Ten Tips for Emergency Remote Teaching](https://www.youtube.com/watch?v=GIc1lL6-tcw&t=2s)\
+  On Friday May 1, I gave a webinar/presentation for researchEDHome. In contrast with most other webinars I chose to keep the presentation short (it was less than 20 minutes) and devote more than 40 minutes to a Q&A with the participants. The theme of the webinar was Ten Tips for Emergency Remote Teaching. Note that I don’t speak of online learning which is a well-designed and thought out design, development, production, and delivery of self-study materials, but rather of emergency remote teaching. \
+  The YouTube site also contains the slides and the answers to questions that couldn't be answered live.
 
 ### Boeken
 
