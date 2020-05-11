@@ -24,7 +24,7 @@ Tony Jenkens zei in 2002:
 
 en
 
-> Papers beschrijven hoe wij allerlei toeters en bellen \[EN: visual hooks  and props ] kunnen gebruiken om lerenden te engageren, of hoe programmeren bijna als trucje / voorwendsel \[EN: subterfuge] geleerd kan worden via spelletjes. Dit zijn allemaal mooie ideeën, maar er bijna geen concreet bewijs dat deze manieren van lesgeven enig effect heeft op het leren (p. 1).
+> Papers beschrijven hoe wij allerlei toeters en bellen \[EN: visual hooks and props] kunnen gebruiken om lerenden te engageren, of hoe programmeren bijna als trucje / voorwendsel \[EN: subterfuge] geleerd kan worden via spelletjes. Dit zijn allemaal mooie ideeën, maar er bijna geen concreet bewijs dat deze manieren van lesgeven enig effect heeft op het leren (p. 1).
 
 Programmeren wordt in het algemeen behandeld als een STEM-vak (Science, Technology, Engineering, Math). Toch delen programmeertalen veel kenmerken met een (tweede) natuurlijke taal. Duh! Het is niet voor niets dat wij spreken van ‘programmeertalen’. Programmeertalen kennen eigen woorden en symbolen en ze hebben een eigen grammatica en syntaxis (zinsbouw). Als je programmeert, creëer je betekenis door de woorden en symbolen op basis van regels (grammatica en vooral syntaxis) aan elkaar te rijgen. Onderzoek laat zien (Denny e.a., 2011) dat leerlingen enorm worstelen met die syntaxis van programmeertalen. Paul Denny en collega’s ontdekten bijvoorbeeld dat leerlingen meestal een broncode (leesbare tekst van de programmeur in een programmeertaal) inleveren met fouten in de syntaxis: zwakkere leerlingen maakte syntaxfouten in bijna drie kwart (73%) van de gevallen en zelfs de beste leerlingen maakte syntaxfouten ongeveer 50% van de tijd.
 
