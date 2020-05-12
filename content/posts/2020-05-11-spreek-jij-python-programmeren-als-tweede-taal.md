@@ -2,7 +2,7 @@
 template: post
 title: 'Spreek Jij Python? Programmeren als Tweede Taal '
 slug: 'posts/Spreek_Jij_Python_Programmeren_als_Tweede_Taal '
-draft: true
+draft: false
 date: 2020-05-11T11:54:32.921Z
 description: >-
   Leren programmeren lijkt op het leren van een tweede taal, zo wijst onderzoek
