@@ -2,7 +2,7 @@
 template: post
 title: Zinvol leren
 slug: posts/zinvol_leren
-draft: true
+draft: false
 date: 2020-05-18T19:10:43.356Z
 description: >-
   Wat is zinvol leren? Misschien de beste definitie is leren waarbij je merkt
