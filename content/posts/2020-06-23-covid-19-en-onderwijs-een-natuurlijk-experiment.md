@@ -2,7 +2,7 @@
 template: post
 title: 'Covid-19 en Onderwijs: Een Natuurlijk Experiment'
 slug: posts/Een_natuurlijk_onderwijsexperiment
-draft: true
+draft: false
 date: 2020-06-23T12:50:37.962Z
 description: >-
   Volgens veel romantici en zogenoemde progressieve onderwijskundigen is school
